@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/enderbone/3-column-preview-card-component]
-- Live Site URL: [https://enderbone.github.io/3-column-preview-card-component]
+- Live Site URL: [https://enderbone.github.io/3-column-preview-card-component/dist/index.html]
 ## My process
 
 ### Built with
